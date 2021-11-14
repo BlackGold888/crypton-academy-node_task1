@@ -1,0 +1,20 @@
+{
+  "name": "crypton-academy-node_task1",
+  "version": "1.0.0",
+  "description": "Get student statistics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackGold888/crypton-academy-node_task1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackGold888/crypton-academy-node_task1/issues"
+  },
+  "homepage": "https://github.com/BlackGold888/crypton-academy-node_task1#readme"
+}
